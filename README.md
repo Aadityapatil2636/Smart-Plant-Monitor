@@ -43,7 +43,4 @@ See Circuit folder for complete wiring diagram
 - DHT Sensor Library
 - Blynk
 
-## Links
-- Blynk Dashboard: [Add your link]
-- Demo Video: [Add Google Drive link]
-- Onshape CAD: [Add your link]
+
